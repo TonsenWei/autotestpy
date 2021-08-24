@@ -1,0 +1,9 @@
+/.pytest_cache
+__pycache__
+/reports
+**/__pycache__/
+**/pytest_cache/
+/data
+**/*.pyc
+/py3win
+py_log.txt
